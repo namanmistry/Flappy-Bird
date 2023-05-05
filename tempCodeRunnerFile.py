@@ -1,0 +1,1 @@
+screen.blit(PLAYER[0],(x,
